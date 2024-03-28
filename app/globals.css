@@ -1,10 +1,14 @@
 
+.text{
+  color: #3C3030;
+  text-align: center;
+  font-size:84px;
+  font-family: "Iowan Old Style";
+}
 .imag{
   margin-bottom: 17px;
 }
 
-.header{
-  color: #3C3030;
-  font-family: "Iowan Old Style";
-  font-size: 84px;
+.box_1{
+  height:408px;
 }
