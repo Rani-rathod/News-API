@@ -4,6 +4,7 @@ import React from "react";
 import NewsDe from "./news_de";
 import Header from "./header";
 import Search from "./search";
+import Footer from "./footer";
 
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
       <Header/>
       <Search/>
       <NewsDe/>
+      <Footer/>
     </>
     );
 }

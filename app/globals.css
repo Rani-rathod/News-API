@@ -9,6 +9,52 @@
   margin-bottom: 17px;
 }
 
+.search{
+  margin-top: 74px;
+  display: flex;
+  margin-bottom: 89px;
+  justify-content: center;
+}
+
+.button{
+  padding: 17px 13px 16px 22px;
+  align-items: center;
+  background: #E84848; 
+  float: right;
+} 
+.search-input{
+  background-image: url("/Frame 15.svg");
+  background-repeat: no-repeat;
+  padding-left: 35px;
+  width: 267px;
+  height: 60px;
+  background-position: left;  
+}
 .box_1{
   height:408px;
 }
+
+.center_text_he1{
+  display: flex;
+  align-items: center;
+  gap: 2.264px;
+  justify-content: center;
+}
+.News1 {
+  color: #3C3030;
+  font-family: "Iowan Old Style";
+  font-size: 15.095px;
+}
+
+.logo1 {
+  width: 8.302px;
+  height: 8.302px;
+  margin-bottom: 10px;
+}
+
+.org_text1 {
+  color: #3C3030;
+  font-family: "Iowan Old Style";
+  font-size: 15.095px;
+} 
+
